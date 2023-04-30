@@ -1,0 +1,28 @@
+body {
+  justify-content: center;
+  align-items: center;
+  font-family: 'Open Sans', sans-serif;
+  background-color: white;
+  text-decoration-color: dimgray;
+}
+
+h1 {
+  font-family: 'Dancing Script';
+  font-size: 3rem;
+}
+
+h2, h3, h4 {
+  font-style: italic;
+  font-size: 1.5rem;
+}
+
+nav, .collapse, .navbar-collapse {
+  color: white;
+  padding: 0%;
+}
+
+div {
+  justify-content: center;
+  align-items: center;
+  padding: 1%;
+}
